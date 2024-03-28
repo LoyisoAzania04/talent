@@ -17,4 +17,4 @@ server.listen(port, function(error){
     }
 })
 
-module.exports = app;
+/*module.exports = app;*/
